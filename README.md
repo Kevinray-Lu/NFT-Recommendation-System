@@ -7,7 +7,7 @@ Trojans Online Resource Exchange Platform is a web application designed to promo
 - [Trojans Online Resource Exchange Platform](#trojans-online-resource-exchange-platform)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
-  - [Installation](#installation)
+  - [Datasets](#datasets)
   - [Files](#files)
   - [License](#license)
 
@@ -20,16 +20,16 @@ Trojans Online Resource Exchange Platform is a web application designed to promo
 - Useful USC links
 - Friendly user interface (self-designed web icon, welcome page, clear directions, etc.)
 
-## Dataset
+## Datasets
 
 1. NFT historical sales dataset:
-https://www.kaggle.com/datasets/francescofalleni/nft-historical-sales
+- https://www.kaggle.com/datasets/francescofalleni/nft-historical-sales
 
 2. User clicking history dataset (from past opensource project of RMDS):
-https://github.com/GRMDS/User_Recommender/blob/main/match_df.csv
+- https://github.com/GRMDS/User_Recommender/blob/main/match_df.csv
 
 3. Users feature dataset: 
-https://data.world/technology/stack-overflow-developer-survey
+- https://data.world/technology/stack-overflow-developer-survey
 
 
 ## Files
