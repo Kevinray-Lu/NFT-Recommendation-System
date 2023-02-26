@@ -13,12 +13,11 @@ Trojans Online Resource Exchange Platform is a web application designed to promo
 
 ## Features
 
-- User validation (login/register)
-- Item posting/viewing (with pictures and descriptions)
-- Item management (repost/delete)
-- Item tracking (status)
-- Useful USC links
-- Friendly user interface (self-designed web icon, welcome page, clear directions, etc.)
+- User specific NFT recommendation (SVM & K-Means)
+- Cold Start integration (user similarity computation) 
+- User Interface Prototype
+- Trending product recommendation
+- Price Filtering
 
 ## Datasets
 
@@ -34,11 +33,8 @@ Trojans Online Resource Exchange Platform is a web application designed to promo
 
 ## Files
 
-- `app.js`: main backend file
-- `auth.js`: file for user validation
-- `db.js`: file for managing the database
-- `views/*`: main frontend files
-- `public/css/*`: file for styling the frontend
+- `NFT_Recommendation_System.ipynb`: Coding file for  NFT recommendation, implements data preprocessing, Dimensionality Reduction (PCA & SVD), Data Normalization & Standardization, and Machine Learning Algorithms to recommend groups of NFTs from selected datasets. NFT grouping method using SVM achieved 98% accuracy. This file also contains two user cases for reference (also included in Interface Demo).
+- `NFT_Rec_Sys_Project_Report.pdf`: This report contains detailed design of the system and relative information of project management(e.g. Agile Development, Lean Six Sigma, Process Mapping, etc.). 
 
 
 ## License
