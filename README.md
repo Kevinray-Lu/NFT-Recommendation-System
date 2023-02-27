@@ -37,6 +37,6 @@ Trojans Online Resource Exchange Platform is a web application designed to promo
 - `NFT_Rec_Sys_Project_Report.pdf`: This report contains detailed design of the system and relative information of project management(e.g. Agile Development, Lean Six Sigma, Process Mapping, etc.). 
 
 
-## License
+## User Interface
 
-This project is licensed under the MIT License - All rights reserved Trojans Second Hand Trading
+- Below shows screenshots of User Interface demo
