@@ -1,10 +1,14 @@
-# NFT-Recommendation-System
+# NFT Recommendation System
 
-Trojans Online Resource Exchange Platform is a web application designed to promote convenience on USC campus-wise second-hand product information sharing. It allows users to post and view second-hand items, manage their items, and track their status. It also provides useful USC links and a friendly user interface.
+The NFT Recommendation System for RMDS Lab Co. is a project aimed at recommending groups of NFTs to specific users. The project utilized Agile development technique and Lean Six Sigma methodology for effective project management. The project included the incorporation of a cold start mechanism for new users, which allowed the recommendation system to provide accurate recommendations even for users who had little to no history with NFTs.
+
+To achieve accurate recommendations, the project utilized machine learning algorithms such as Support Vector Machine (SVM), K-Means, Principal Component Analysis (PCA), and Singular Value Decomposition (SVD). The recommendation system achieved a remarkable accuracy rate of 97.6% when grouping NFTs.
+
+For detailed implementation and technical information, please refer to the project report.
 
 ## Table of Contents
 
-- [Trojans Online Resource Exchange Platform](#trojans-online-resource-exchange-platform)
+- [NFT Recommendation System](#nft-recommendation-system)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Datasets](#datasets)
