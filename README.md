@@ -40,3 +40,5 @@ Trojans Online Resource Exchange Platform is a web application designed to promo
 ## User Interface
 
 - Below shows screenshots of User Interface demo
+- Recommendation page for user 2052, including price filter, search bar, trending products and recommended products
+<img src="https://github.com/Kevinray-Lu/NFT-Recommendation-System/blob/main/demo_pics/user%202052%20recommendation.png" style="width:25%">
